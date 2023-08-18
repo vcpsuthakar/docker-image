@@ -1,5 +1,4 @@
-# Add new comment test2
-trigger:  
+# Add new comment test3
   branches:    
     include:      
       - master

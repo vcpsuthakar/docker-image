@@ -1,4 +1,4 @@
-name: "CodeQL"
+name: "Dependency Review"
 
 on:
   push:

@@ -26,7 +26,7 @@ jobs:
     - name: Run Dependency Review
       uses: actions/dependency-review-action@v2
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        # github-token: ${{ secrets.GITHUB_TOKEN }}
         check-runs: dependency-check
         # You can specify additional configuration options here if needed
 
